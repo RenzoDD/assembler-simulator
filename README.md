@@ -17,7 +17,7 @@
 
 ## Developers ✒️
 
-* **Renzo Diaz** - [RenzoDD2001](https://github.com/RenzoDD2001)
+* **Renzo Diaz** - [RenzoDD](https://github.com/RenzoDD)
 
 ## Acknowledgment 🎁
 
